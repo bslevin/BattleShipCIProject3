@@ -11,11 +11,11 @@ CLASSIC GAME FOR EVERYONE!
 <div align="center">
   <h3>
     <a href="https://battleshipcip3.herokuapp.com/">
-      🌍Live Website
+      🌍 Heroku App
     </a>
     <span> | </span>
     <a href="https://github.com/bslevin/BattleShipCIProject3">
-      💾Github Repository
+      💾 Github Repository
     </a>
   </h3>
 </div>
