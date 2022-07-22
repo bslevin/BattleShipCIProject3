@@ -80,7 +80,7 @@ This project was deployed using Heroku.
 - Credit to a private mentor Diego Riemerez a tutuor on Preply for private classes.
 - I live shared this project on VSCode with Diego Riemerez and his input was essential to it's running
 - Youtube tutorials
-  -[Python Intermediate Project Assignment: Learn How to make Battleships in under 15 minutes!
+- [Python Intermediate Project Assignment: Learn How to make Battleships in under 15 minutes!
 ](https://www.youtube.com/watch?v=MgJBgnsDcF0) 
   -
   -
