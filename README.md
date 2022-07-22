@@ -35,26 +35,36 @@ CLASSIC GAME FOR EVERYONE!
 - Game messages throught game
 - Heroku display console
 <details>
-<summary>Colorful messages and errors</summary>
+<summary>Color messages and errors</summary>
 <img src= alt='colorful messages and errors'>
 </details>
 
 ## Existing Features
-    - The computer's ships are randomly placed on the board
+    - The computer's (HAl) ships are randomly placed on the board
     - Opponents ships are hidden from view
     - Missile coordinates are enterered by letter and number with a space inbetween 
 
 # Data Model 
 
 # Testing
+This project has been tested doing the following
+
+- Copied and ran code through a PEP8
+- Tested all incorrect values and that they returned the corisponding warning texts
+- Tested on laptop and desktop terminal
+- Family tested on the Heroku display console
 
 ## Bugs
+
+- Code was orriginaly coded using vscode where I mademcommits. [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository through gitpod
+
+-
 ### Resolved Bugs
 ## Remaining Bugs
 
 # Deployment
 
-This project was deployed using Code Institute's mock terminal on Heroku.
+This project was deployed using Heroku.
 
 - How to deploy:
     - Click 'create new app' in Heroku
@@ -65,7 +75,8 @@ This project was deployed using Code Institute's mock terminal on Heroku.
 
 # Credits
 
-- Credit to a personal mentor Diego Riemerez a tutuor on preply for private classes
+- Credit to a private mentor Diego Riemerez a tutuor on Preply for private classes
+- I live shared this project on VSCode with Diego Riemerez and his input was essential to it's running
 - Youtube tutorials
   -
   -
