@@ -21,66 +21,64 @@ CLASSIC GAME FOR EVERYONE!
 </div>
 <hr>
 
-## How to play
-- Battleship is a two player game, here the computer (HAL) is the second player. Ships are randomly allocated on the board. When shooting at the other ship coordinates must be entered in a specific format. Letter for column and number for row with space between them. 
-- It is a 8 x 8 board, A,B,C,D,E,F,G,H and 0,1,2,3,4,5,6,7.
-- Game runs until one player is defeated
-<h1 align="center">GOOD LUCK!</h1>
-
+  ## How to play
+  - Battleship is a two player game, here the computer (HAL) is the second player. Ships are randomly allocated on the board. When shooting at the other ship coordinates must be entered in a specific format. Letter for column and number for row with space between them. 
+  - It is a 8 x 8 board, A,B,C,D,E,F,G,H and 0,1,2,3,4,5,6,7.
+  - Game runs until one player is defeated
+  <h1 align="center">GOOD LUCK!</h1>
 
 # Features
-## Of Game
-- Automatic ships placement
-- Gameplay against computer (HAL)
-- Artwork at game start
-- Game messages throught game
-- Heroku display console
-<details>
+  ## Of Game
+  - Automatic ships placement
+  - Gameplay against computer (HAL)
+  - Artwork at game start
+  - Game messages throught game
+  - Heroku display console
+  <details>
 
-## Existing Features
-    - The computer's (HAl) ships are randomly placed on the board
-    - Opponents ships are hidden from view
-    - Missile coordinates are enterered by letter and number with a space inbetween 
+  ## Existing Features
+      - The computer's (HAl) ships are randomly placed on the board
+      - Opponents ships are hidden from view
+      - Missile coordinates are enterered by letter and number with a space inbetween 
 
-## Future Features
-    - Inputing of ship location
-    - Escape game option
+  ## Future Features
+      - Inputing of ship location
+      - Escape game option
 
 
 # Testing
-This project has been tested doing the following
+  - This project has been tested doing the following
 
-- Copied and ran code through a PEP8
-- Tested all incorrect input values and that they returned the corisponding warning texts
-- Tested on laptop and desktop terminal
-- Family tested on the Heroku display console
+  - Copied and ran code through a PEP8
+  - Tested all incorrect input values and that they returned the corisponding warning texts
+  - Tested on laptop and desktop terminal
+  - Family tested on the Heroku display console
 
 
-## Bugs
+  ## Bugs
 
-  - Code was orriginaly coded using vscode where I mademcommits. [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository through gitpod
-  
-  - PEP8 errors fixed
-  - Corrected length of code that was was over
+    - Code was orriginaly coded using vscode where I mademcommits. [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository through gitpod
+    
+    - PEP8 errors fixed
+    - Corrected length of code that was was over
 
 
 # Deployment
 
-This project was deployed using Heroku.
+  - Project was deployed using Heroku.
 
-- How to deploy:
-    - Click 'create new app' in Heroku
-    - Set choose buildbacks python and NodeJS in that order
-    - Choose GitHub as your deployment method then click connect
-    - Link your repository to Heroku by inputing your reopository name
-    - Click on Deploy
+  - How to deploy:
+      - Click 'create new app' in Heroku
+      - Set choose buildbacks python and NodeJS in that order
+      - Choose GitHub as your deployment method then click connect
+      - Link your repository to Heroku by inputing your reopository name
+      - Click on Deploy
 
 # Credits
 
 - Credit to a private mentor Diego Riemerez a tutuor on Preply for private classes.
 - I live shared this project on VSCode with Diego Riemerez and his input was essential to it's running
 - Youtube tutorials
-- [Python Intermediate Project Assignment: Learn How to make Battleships in under 15 minutes!
-](https://www.youtube.com/watch?v=MgJBgnsDcF0) 
+  - [Python Intermediate Project Assignment: Learn How to make Battleships in under 15 minutes!](https://www.youtube.com/watch?v=MgJBgnsDcF0) 
   -
   -
