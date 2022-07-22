@@ -78,10 +78,10 @@ CLASSIC GAME FOR EVERYONE!
 - Credit to a private mentor Diego Riemerez a tutuor on Preply for private classes.[Diego](https://preply.com/en/tutor/2632116)
 - I live shared this project on VSCode with Diego Riemerez and his input was essential to it's running
 - Youtube tutorials
-  -[Python Intermediate Project Assignment: Learn How to make Battleships in under 15 minutes!](https://www.youtube.com/watch?v=MgJBgnsDcF0)
-  -[Learn Python with CodeCademy: Battleship!](https://www.youtube.com/watch?v=7Ki_2gr0rsE)
-  -[How to Code Battleship in Python - Single Player Game](https://www.youtube.com/watch?v=tF1WRCrd_HQ)
-  -[Refactoring a Battleship Game in Python // Code Roast Part 1 of 2](https://www.youtube.com/watch?v=u3yo-TjeIDg)
+  - [Python Intermediate Project Assignment: Learn How to make Battleships in under 15 minutes!](https://www.youtube.com/watch?v=MgJBgnsDcF0)
+  - [Learn Python with CodeCademy: Battleship!](https://www.youtube.com/watch?v=7Ki_2gr0rsE)
+  - [How to Code Battleship in Python - Single Player Game](https://www.youtube.com/watch?v=tF1WRCrd_HQ)
+  - [Refactoring a Battleship Game in Python // Code Roast Part 1 of 2](https://www.youtube.com/watch?v=u3yo-TjeIDg)
 
 ## Resources
 
