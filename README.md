@@ -1,31 +1,72 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center">BATTLESHIP GAME</h1>
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+<div align="center">
+  <strong>PLAYER VS COMPUTER</strong>
+</div>
+<div align="center">
+CLASSIC GAME FOR EVERYONE!
+</div>
 
-## Reminders
+<div align="center">
+  <h3>
+    <a href="">
+      🌍Live Website
+    </a>
+    <span> | </span>
+    <a href="">
+      💾Github Repository
+    </a>
+  </h3>
+</div>
+<hr>
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
+## How to play
+- Battleship is a two player game, here the computer is the second player. Ships are randomly allocated on the board. When shooting at the other ship coordinates must be entered in a specific format. Letter for column and number for row with space between them. 
+- It is a 8 x 8 board, A,B,C,D,E,F,G,H and 0,1,2,3,4,5,6,7.
+<h1 align="center">GOOD LUCK!</h1>
 
-## Creating the Heroku app
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+# Features
 
-1. `heroku/python`
-2. `heroku/nodejs`
+- Automatic ships placement
+- Gameplay against computer HAL
+- Artwork at game start
+- Game messages throught game
+- Heroku display console
+<details>
+<summary>Colorful messages and errors</summary>
+<img src= alt='colorful messages and errors'>
+</details>
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+## Existing Features
+    - The computer's ships are randomly placed on the board
+    - Opponents ships are hidden from view
+    - Missile coordinates are enterered by letter and number with a space inbetween 
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+# Data Model 
 
-Connect your GitHub repository and deploy as normal.
+# Testing
 
-## Constraints
+## Bugs
+### Resolved Bugs
+## Remaining Bugs
 
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
+# Deployment
 
------
-Happy coding!
+This project was deployed using Code Institute's mock terminal on Heroku.
+
+- How to deploy:
+    - Click 'create new app' in Heroku
+    - Set choose buildbacks python and NodeJS in that order
+    - Choose GitHub as your deployment method then click connect
+    - Link your repository to Heroku by inputing your reopository name
+    - Click on Deploy
+
+# Credits
+
+- Credit to a personal mentor Diego Riemerez a tutuor on preply for private classes
+- Youtube tutorials
+  -
+  -
+  -
