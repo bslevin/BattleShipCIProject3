@@ -36,9 +36,6 @@ CLASSIC GAME FOR EVERYONE!
 - Game messages throught game
 - Heroku display console
 <details>
-<summary>Color messages and errors</summary>
-<img src= alt='colorful messages and errors'>
-</details>
 
 ## Existing Features
     - The computer's (HAl) ships are randomly placed on the board
@@ -48,10 +45,6 @@ CLASSIC GAME FOR EVERYONE!
 ## Future Features
     - Inputing of ship location
     - Escape game option
-
-
-# Data Model 
-
 
 
 # Testing
@@ -66,8 +59,9 @@ This project has been tested doing the following
 ## Bugs
 
   - Code was orriginaly coded using vscode where I mademcommits. [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository through gitpod
-
-  - Corrected length of code that was was over 80 and recommendations from PEP8
+  
+  - PEP8 errors fixed
+  - Corrected length of code that was was over
 
 
 # Deployment
@@ -86,6 +80,7 @@ This project was deployed using Heroku.
 - Credit to a private mentor Diego Riemerez a tutuor on Preply for private classes.
 - I live shared this project on VSCode with Diego Riemerez and his input was essential to it's running
 - Youtube tutorials
-  -
+  -[Python Intermediate Project Assignment: Learn How to make Battleships in under 15 minutes!
+](https://www.youtube.com/watch?v=MgJBgnsDcF0) 
   -
   -
