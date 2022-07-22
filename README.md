@@ -34,7 +34,7 @@ CLASSIC GAME FOR EVERYONE!
   - Artwork at game start
   - Game messages throught game
   - Heroku display console
-  <details>
+ 
 
   ## Existing Features
       - The computer's (HAl) ships are randomly placed on the board
@@ -79,3 +79,4 @@ CLASSIC GAME FOR EVERYONE!
 - Credit to a private mentor Diego Riemerez a tutuor on Preply for private classes.
 - I live shared this project on VSCode with Diego Riemerez and his input was essential to it's running
 - Youtube tutorials
+  -
