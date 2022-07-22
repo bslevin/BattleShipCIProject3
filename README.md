@@ -22,15 +22,16 @@ CLASSIC GAME FOR EVERYONE!
 <hr>
 
 ## How to play
-- Battleship is a two player game, here the computer is the second player. Ships are randomly allocated on the board. When shooting at the other ship coordinates must be entered in a specific format. Letter for column and number for row with space between them. 
+- Battleship is a two player game, here the computer (HAL) is the second player. Ships are randomly allocated on the board. When shooting at the other ship coordinates must be entered in a specific format. Letter for column and number for row with space between them. 
 - It is a 8 x 8 board, A,B,C,D,E,F,G,H and 0,1,2,3,4,5,6,7.
+- Game runs until one player is defeated
 <h1 align="center">GOOD LUCK!</h1>
 
 
 # Features
-
+## Of Game
 - Automatic ships placement
-- Gameplay against computer HAL
+- Gameplay against computer (HAL)
 - Artwork at game start
 - Game messages throught game
 - Heroku display console
@@ -43,6 +44,11 @@ CLASSIC GAME FOR EVERYONE!
     - The computer's (HAl) ships are randomly placed on the board
     - Opponents ships are hidden from view
     - Missile coordinates are enterered by letter and number with a space inbetween 
+
+## Future Features
+    - Inputing of ship location
+    - Escape game option
+
 
 # Data Model 
 
