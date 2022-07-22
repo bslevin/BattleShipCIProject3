@@ -73,6 +73,17 @@ CLASSIC GAME FOR EVERYONE!
       - Link your repository to Heroku by inputing your reopository name
       - Click on Deploy
 
+  - <h3>
+      <a href="https://battleshipcip3.herokuapp.com/">
+        🌍 Heroku App
+      </a>
+    </h3>
+    <h3>
+      <a href="https://github.com/bslevin/BattleShipCIProject3">
+        💾 Github Repository
+      </a>
+  </h3>
+
 # Credits
 
 - Credit to a private mentor Diego Riemerez a tutuor on Preply for private classes.[Diego](https://preply.com/en/tutor/2632116)
