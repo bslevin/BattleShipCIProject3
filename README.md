@@ -55,34 +55,39 @@ CLASSIC GAME FOR EVERYONE!
 
 
   ## Bugs
+  - Code was orriginaly commited and pushed in another repository.[BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main)
+      - When loading it into Heroku an apple.error came back. 
+      - I then subsequently copied and pasted the code to this repository using gitpod. 
+      - In this version most commits are for the read me.
 
-    - Code was orriginaly commited and pushed in another repository.[BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository using gitpod. In this version most commits are for the read me.
+  - PEP8 errors <details><img src='assets/readme/pep8_errors.png'></details>
     
-    - PEP8 errors fixed <img src=>
-    - Corrected length of code that was was over
 
 
 # Deployment
 
-  - Project was deployed using Heroku.
-
+  <h2>Project was deployed using Heroku.</h2>
+  
   - How to deploy:
-      - Click 'create new app' in Heroku
-      - Set choose buildbacks python and NodeJS in that order
-      - Choose GitHub as your deployment method then click connect
-      - Link your repository to Heroku by inputing your reopository name
-      - Click on Deploy
-
-  - <h3>
+    - Click 'create new app' in Heroku
+    - Set choose buildbacks python and NodeJS in that order
+    - Choose GitHub as your deployment method then click connect
+    - Link your repository to Heroku by inputing your reopository name
+    - Click on Deploy
+  
+  <hr>
+  <h3>
       <a href="https://battleshipcip3.herokuapp.com/">
         🌍 Heroku App
       </a>
-    </h3>
-    <h3>
+  </h3>
+  <hr>
+  <h3>
       <a href="https://github.com/bslevin/BattleShipCIProject3">
         💾 Github Repository
       </a>
   </h3>
+  <hr>
 
 # Credits
 
