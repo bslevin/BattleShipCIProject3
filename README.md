@@ -25,7 +25,9 @@ CLASSIC GAME FOR EVERYONE!
   - Battleship is a two player game, here the computer (HAL) is the second player. Ships are randomly allocated on the board. When shooting at the other ship coordinates must be entered in a specific format. Letter for column and number for row with space between them. 
   - It is a 8 x 8 board, A,B,C,D,E,F,G,H and 0,1,2,3,4,5,6,7.
   - Game runs until one player is defeated
-  <h1 align="center">GOOD LUCK!</h1>
+
+<h1 align="center">Flowchart</h1>
+<img src='assets/readme/flowchart.png'>
 
 # Features
   ## Of Game
@@ -43,7 +45,6 @@ CLASSIC GAME FOR EVERYONE!
   ## Future Features
       - Inputing coordinates of ship location
       - Exit game option
-
 
 # Testing
   - This project has been tested doing the following;
