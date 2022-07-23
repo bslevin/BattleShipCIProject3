@@ -59,7 +59,7 @@ CLASSIC GAME FOR EVERYONE!
     - Code was orriginaly coded using vscode where I mademcommits. [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository using gitpod. In this version most commits are for the read me.
     
     - PEP8 errors fixed 
-    <img src='assets/readme/pep8_errors'>
+    <img src='assets/readme/pep8_errors.txt'>
     - Corrected length of code that was was over
 
 
