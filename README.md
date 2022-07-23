@@ -56,8 +56,7 @@ CLASSIC GAME FOR EVERYONE!
 
   ## Bugs
 
-      - Code was orriginaly commited and pushed in another repository. 
-        [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). 
+      - Code was orriginaly commited and pushed in another repository.[BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). 
         When loading it into Heroku an apple.error came back. 
         I then subsequently copied and pasted the code to a new repository using gitpod. 
         In this version most commits are for the read me.
