@@ -30,10 +30,10 @@ CLASSIC GAME FOR EVERYONE!
 # Features
   ## Of Game
   - Automatic ships placement
-  - Gameplay against computer (HAL)
+  - Gameplay player vs computer (HAL)
   - Artwork at game start
-  - Game messages throught game
-  - Heroku display console
+  - Game messages through out the game
+  - Play in terminal and Heroku display console
 
   ## Existing Features
       - The computer's (HAl) ships are randomly placed on the board
@@ -41,24 +41,25 @@ CLASSIC GAME FOR EVERYONE!
       - Missile coordinates are enterered by letter and number with a space inbetween 
 
   ## Future Features
-      - Inputing of ship location
-      - Escape game option
+      - Inputing coordinates of ship location
+      - Exit game option
 
 
 # Testing
-  - This project has been tested doing the following
+  - This project has been tested doing the following;
 
-  - Copied and ran code through a PEP8
-  - Tested all incorrect input values and that they returned the corisponding warning texts
-  - Tested on laptop and desktop terminal
+  - Copied and ran code through PEP8
+  - Tested all game input values and that they returned the corisponding warning texts
+  - Tested on a laptop and a desktop terminal
   - Family tested on the Heroku display console
 
 
   ## Bugs
 
-    - Code was orriginaly coded using vscode where I mademcommits. [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository through gitpod
+    - Code was orriginaly coded using vscode where I mademcommits. [BattleShip2.0](https://github.com/bslevin/BattleShip2.0/commits/main). When loading it into Heroku an apple.error came back. I then subsequently copied and pasted the code to a new repository using gitpod. In this version most commits are for the read me.
     
-    - PEP8 errors fixed
+    - PEP8 errors fixed 
+      - ![PEP8]()
     - Corrected length of code that was was over
 
 

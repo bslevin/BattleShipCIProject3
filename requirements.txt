@@ -1,1 +1,2 @@
 colorama==0.4.5
+# type pip install colorama in terminal
